@@ -78,9 +78,9 @@ The analysis followed a structured, consulting-style workflow:
 ---
 
 ## Repository Structure
-├── code/ # Data cleaning, EDA, regression, clustering, simulations
-├── reports/ # Final report and executive summaries
-├── dashboard/ # Dashboard screenshots and visuals
+├── code/ Data cleaning, EDA, regression, clustering, simulations
+├── reports/ Final report and executive summaries
+├── dashboard/ # Slide Deck and visuals
 ├── README.md
 └── requirements.txt
 
